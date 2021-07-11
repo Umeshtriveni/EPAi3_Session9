@@ -5,7 +5,7 @@ import os
 import inspect
 import re
 import math
-
+from faker import Faker
 from Session_9 import *
 
 
